@@ -23,4 +23,9 @@ public class SearchPage {
 
         driver.findElement(firstProduct).click();
     }
+
+	public void applyBrandFilter(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 }
