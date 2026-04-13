@@ -8,6 +8,7 @@ public class Selenium {
 		System.out.println("Selenium IDE ");
 		System.out.println("Selenium Grid");
 		System.out.println("Selenium Framework");
+		System.out.println("Selenium Frame");
 	}
 
 }
