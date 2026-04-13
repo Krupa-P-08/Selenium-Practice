@@ -6,6 +6,7 @@ public class Selenium {
 		// TODO Auto-generated method stub
 		System.out.println("Automation tool");
 		System.out.println("Selenium IDE ");
+		System.out.println("Selenium WebDriver");
 	}
 
 }
