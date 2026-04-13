@@ -7,6 +7,7 @@ public class Selenium {
 		System.out.println("Automation tool");
 		System.out.println("Selenium IDE ");
 		System.out.println("Selenium WebDriver");
+		System.out.println("Selenium Web");
 	}
 
 }
